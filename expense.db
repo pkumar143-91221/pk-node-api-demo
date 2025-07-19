@@ -1,17 +1,10 @@
+{"_id":"3piHPPcv5HSVDpal","name":"Java Programming Book - part 1","amount":255,"category":"Academic","spend_date":{"$$date":1731628800000}}
+{"_id":"4owXUEgw4ruFpQDP","name":"Mobile","amount":3500,"category":"Gadgets","spend_date":{"$$date":1635552000000}}
 {"name":"Pizza","amount":80,"spend_date":{"$$date":1602288000000},"category":"Food","_id":"A2aMOTKMQ7zlCeSD"}
 {"name":"Grape Juice","amount":30,"spend_date":{"$$date":1602460800000},"category":"Food","_id":"RUfm4kM1Iuae5ouc"}
-{"name":"Cinema","amount":210,"spend_date":{"$$date":1602806400000},"category":"Entertainment","_id":"uaeEVP3dO0dKem5K"}
-{"name":"Java Programming book","amount":242,"spend_date":{"$$date":1602720000000},"category":"Academic","_id":"3piHPPcv5HSVDpal"}
-{"name":"Mango Juice","amount":35,"spend_date":{"$$date":1602806400000},"category":"Food","_id":"tvH0HQxQjNc5PCa7"}
-{"name":"Dress","amount":2000,"spend_date":{"$$date":1603584000000},"category":"Cloth","_id":"rJbScAe3VxZFrDdt"}
 {"name":"Tour","amount":2555,"spend_date":{"$$date":1603929600000},"category":"Entertainment","_id":"dcKJZY50nnDSmWcO"}
-{"name":"Meals","amount":300,"spend_date":{"$$date":1604016000000},"category":"Food","_id":"lsl29qjw476xlimL"}
-{"name":"Mobile","amount":3500,"spend_date":{"$$date":1604275200000},"category":"Gadgets","_id":"4owXUEgw4ruFpQDP"}
 {"name":"Exam Fees","amount":1245,"spend_date":{"$$date":1604448000000},"category":"Academic","_id":"kDjplaoYgfvOT96I"}
-{"_id":"4owXUEgw4ruFpQDP","name":"Mobile","amount":3500,"category":"Gadgets","spend_date":{"$$date":1635552000000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming book","amount":242,"category":"Academic","spend_date":{"$$date":1697328000000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming book","amount":242,"category":"Academic","spend_date":{"$$date":1731628800000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming book","amount":242,"category":"Academic","spend_date":{"$$date":1731628800000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming book","amount":250,"category":"Academic","spend_date":{"$$date":1731628800000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming book","amount":255,"category":"Academic","spend_date":{"$$date":1731628800000}}
-{"_id":"3piHPPcv5HSVDpal","name":"Java Programming Book - part 1","amount":255,"category":"Academic","spend_date":{"$$date":1731628800000}}
+{"name":"Meals","amount":300,"spend_date":{"$$date":1604016000000},"category":"Food","_id":"lsl29qjw476xlimL"}
+{"name":"Dress","amount":2000,"spend_date":{"$$date":1603584000000},"category":"Cloth","_id":"rJbScAe3VxZFrDdt"}
+{"name":"Mango Juice","amount":35,"spend_date":{"$$date":1602806400000},"category":"Food","_id":"tvH0HQxQjNc5PCa7"}
+{"name":"Cinema","amount":210,"spend_date":{"$$date":1602806400000},"category":"Entertainment","_id":"uaeEVP3dO0dKem5K"}
